@@ -49,4 +49,4 @@ Use the `printf()` function.
 <chen_yin_chuan@126.com>
 
 
-![Alt text](https://www.baidu.com/img/bd_logo1.png "Optional title" 166 166)
+![Alt text](https://www.baidu.com/img/bd_logo1.png "Optional title")
