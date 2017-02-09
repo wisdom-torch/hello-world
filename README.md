@@ -23,6 +23,7 @@ Thank `You` . Please `Call` Me `Coder`
 
 <a href="http://images.google.com/images?num=30&amp;q=larry+bird"> aaaa </a>
 
-    <div class="footer">
-        &copy; 2004 Foo Corporation
-    </div>
+<pre><code>&lt;div class="footer"&gt;
+    &amp;copy; 2004 Foo Corporation
+&lt;/div&gt;
+</code></pre>
