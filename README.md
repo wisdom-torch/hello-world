@@ -42,3 +42,5 @@ This is [an example](http://example.com/ "Title") inline link.
 Use the `printf()` function.
 
 *single asterisks*
+
+<https://www.baidu.com/>
