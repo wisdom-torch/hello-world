@@ -21,4 +21,4 @@ Thank `You` . Please `Call` Me `Coder`
 
 这是另一个普通段落。
 
-http://images.google.com/images?num=30&amp;q=larry+bird
+<a href="http://images.google.com/images?num=30&amp;q=larry+bird" />
