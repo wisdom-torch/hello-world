@@ -22,3 +22,7 @@ Thank `You` . Please `Call` Me `Coder`
 这是另一个普通段落。
 
 <a href="http://images.google.com/images?num=30&amp;q=larry+bird"> aaaa </a>
+
+    <div class="footer">
+        &copy; 2004 Foo Corporation
+    </div>
