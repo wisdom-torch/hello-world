@@ -47,3 +47,6 @@ Use the `printf()` function.
 \*literal asterisks\*
 
 <chen_yin_chuan@126.com>
+
+
+![Alt text](https://www.baidu.com/img/bd_logo1.png "Optional title")
