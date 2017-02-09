@@ -44,3 +44,4 @@ Use the `printf()` function.
 *single asterisks*
 
 <https://www.baidu.com/>
+\*literal asterisks\*
