@@ -32,7 +32,8 @@ Thank `You` . Please `Call` Me `Coder`
 > 
 >     return shell_exec("echo $input | $markdown_script");
 这是一个简单的段落<br>
-<pre><code>这是一个代码块<\code><\pre>
+<pre><code>这是一个代码块</code></pre>
+
 
 This is [an example](http://example.com/ "Title") inline link.
 
